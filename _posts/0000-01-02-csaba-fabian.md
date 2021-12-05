@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+>Quote much? ![Trollface](https://en.wikipedia.org/wiki/Trollface#/media/File:Trollface_non-free.png)
 Use the left arrow to go back!
